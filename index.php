@@ -11,7 +11,6 @@
  <li>Morocco</li>
  <li>Paris</li>
  <li>Madagascar</li>
-</ul>
-  
+</ul>  
 </body>
 </html>
