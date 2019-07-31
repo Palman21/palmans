@@ -14,4 +14,9 @@
 </ul>  
 
 </body>
+<footer>
+  <p>Posted by: John Luke Palman</p>
+  <p>Contact information: <a href="Lukey@yahoo.com">
+  someone@example.com</a>.</p>
+</footer>
 </html>
