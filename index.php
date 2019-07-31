@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html>
-  <head><title>Hello</title></head>
+<head><title>Hello</title></head>
 <body style="background-color:powderblue;">
 <h1><center>Hello World!</center></h1>
 <p><center>Welcome to Paradise</center></p>
@@ -12,5 +12,6 @@
  <li>Paris</li>
  <li>Madagascar</li>
 </ul>  
+
 </body>
 </html>
