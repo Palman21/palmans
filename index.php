@@ -1,7 +1,13 @@
+<!DOCTYPE html>
 <html>
 <head><title>Hello</title></head>
-<h1> Hellow World!</h1>
-<body>
+<body style="background-color:powderblue;">
+
+<h1>Hello World!</h1>
+<p>Welcome to Paradise</p>
 
 
+  
+  
+  </body>
 </html>
