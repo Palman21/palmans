@@ -2,8 +2,8 @@
 <html>
   <head><title>Hello</title></head>
 <body style="background-color:powderblue;">
-<h1><center>Hello World!</h1></center>
-<p><center>Welcome to Paradise</p></center>
+<h1><center>Hello World!</center></h1>
+<p><center>Welcome to Paradise</center></p>
 <hr  border-width: 1px;>
 <a href="http://7-themes.com/collections/hdq-paradise-wallpapers/"></a>
 <h2> Available islands </h2>
