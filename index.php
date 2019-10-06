@@ -11,7 +11,7 @@ LOG-IN
 </h1>
 <h1>Rock Paper Scissors The Game</h1>
 
-<form name="loginform" onSubmit="return validateForm();" action="RPS.html" method="post">
+<form name="loginform" onSubmit="return validateForm();" action="RPS.php" method="post">
  <div class="imgcontainer">
   </div>
 
