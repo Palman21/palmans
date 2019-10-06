@@ -22,15 +22,15 @@
 
 <div class="choices">
 	<div class="choice" id="r">
-		<img src="Rock.png" alt="">
+		<img src="Rock.png" alt="rock">
 	</div>
 
 	<div class="choice" id="p">
-		<img src="Paper.png" alt="">
+		<img src="Paper.png" alt="paper">
 	</div>
 
 	<div class="choice" id="s">
-		<img src="Scissors.png" alt="">
+		<img src="Scissors.png" alt="scissors">
 	</div>
 
 
